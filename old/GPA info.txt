@@ -1,0 +1,7 @@
+subject: Chinese	level: S	score: 85		credit: 3
+subject: Math	level: H	score: 91		credit: 6
+subject: English	level: H	score: 83		credit: 6.5
+subject: History	level: S+	score: 90		credit: 4
+subject: Physics	level: H	score: 95		credit: 3
+subject: Chemistry	level: H	score: 93		credit: 3
+subject: Elective	level: H	score: 81		credit: 3

@@ -1,0 +1,7 @@
+subject: Chinese	score: 84		class time: 3
+subject: Math	score: 88		class time: 6
+subject: English	score: 86		class time: 6.5
+subject: History	score: 84		class time: 4
+subject: Physics	score: 87		class time: 3
+subject: Chemistry	score: 84		class time: 3
+subject: Elective	score: 88		class time: 3
